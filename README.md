@@ -1,5 +1,3 @@
-# sentiment_project
-
 # Sentiment Analysis Project
 ## Overview
 This project aims to classify text data into three sentiment categories: Positive, Negative, and Neutral. 
